@@ -1,0 +1,23 @@
+body{
+    background-color : rgb(232, 227, 158);
+}
+
+.heading{
+    background-color: rgb(223, 217, 134);
+    height: 100px;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    border: 5px solid rgb(62, 54, 54);
+}
+
+#btn{
+    padding: 5px;
+   margin: 2% 0 ;
+   width: 10%;
+   
+   display: inline-block;
+}
+h1,h2,h3{
+    font-family: cursive;
+}
